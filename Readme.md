@@ -2,7 +2,7 @@
 
 ## Description 
 
-This project implements some hints and tips covered in the clean code book
+This repository implements some hints and tips covered in the clean code book
 
 ## Requirements
 
