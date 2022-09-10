@@ -1,7 +1,9 @@
-package cleancode;
+package cleancode.functions.switchstatement;
 
 public abstract class Employee {
     public abstract boolean isPayday();
-    public abstract Double calculatePay();
-    public abstract void deliverPay(Double pay);
+
+    public abstract float calculatePay();
+
+    public abstract void deliverPay(double pay);
 }
